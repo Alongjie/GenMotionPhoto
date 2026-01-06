@@ -1,0 +1,2 @@
+# GenMotionPhoto
+输入jpg和一段video合成一个MotionPhoto图像，参考Google1.0标准
